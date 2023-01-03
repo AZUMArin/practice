@@ -1,0 +1,65 @@
+id,word,mean
+1,polygon,多角形
+2,connect,接続
+3,form,形にする
+4,figure,図形
+5,corner,角っこ
+6,vertex,頂点
+7,classify,分類する
+8,quadrilateral,四角形
+9,angle,角度
+10,measure,測る
+11,equiangular,等角の
+12,rectangle,長方形
+13,degree,度
+14,length,長さ
+15,equilateral,直角の
+16,regular ,「正〇角形」の「正」
+17,square,正方形
+18,(be) classified by～,～によって分類される
+19,equal in length,長さが同じである
+20,triangle,三角形
+21,pentagon,五角形
+22,hexagon,六角形
+23,octagon,八角形
+24,area,面積
+25,mean,意味
+26,parallelogram,平行四辺形
+27,calculate,計算する
+28,base ,底辺
+29,height,高さ
+30,choose,選ぶ
+31,draw,描く
+32,parallel,平行の
+33,perpendicular,垂直の
+34,opposite,反対の
+35,unit square,単位正方形
+36,perpendicular to~,~に対して垂直の
+37,(be) equal to～,～に等しい
+38,circle,円
+39,fixed point,定点
+40,center,中心
+41,radius,半径
+42,diameter,直径
+43,circumference,円周
+44,constant,定数、絶え間ない
+45,pi,π、円周率
+46,approximate,近似値、近似
+47,set of,～の集合
+48,space,空間
+49,prism,角柱
+50,cylinder,円柱
+51,solid,立体の、固形の
+52,pyramid,角錐
+53,cone,円錐
+54,triangular,三角の
+55,congruent,合同
+56,lateral,側
+57,cube,立方体
+58,circular,円形の
+59,bottom,底
+60,curved,曲線
+61,space figure,空間図形
+62,lateral face,側面
+63,volume,体積
+64,base area,底面積
