@@ -63,3 +63,12 @@ id,word,mean
 62,lateral face,側面
 63,volume,体積
 64,base area,底面積
+65,A quadrilateral that is equilateral,等辺である四角形
+66,A triangle whose angles are all 60 degrees,角がすべて60度の三角形
+67,The angles that a regular polygon has,正多角形が持つ角度
+68,so that the line is perpendicular to the base,線がベースに対して垂直になるように
+69,The diameter is twice the radius of the circle,直径は円の半径の2倍
+70,is the square of,二乗です
+71,three angles which are all 60 degrees,すべて60度である3つの角度
+72,It is not a pyramid but a cone,ピラミッドではなく円錐です
+73,one third,1/3
