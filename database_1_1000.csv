@@ -1,1 +1,505 @@
-cloud,雲
+id,word,mean
+1,weather,(特定の場所の一時的な)天気、天候
+2,temperature,温度、気温
+3,wind,風、曲がりくねる
+4,ray,光線、放射線
+5,view,眺め、視界
+6,fine,晴れた、罰金
+7,calm,穏やかな、落ち着いた
+8,answer,に答える、に応答する
+9,approach,に近づく、に取り組む
+10,attend,に出席する、に注意を払う
+11,discuss,について議論する、を論じる
+12,enter,に入る、に入学する
+13,plant,植物、植える
+14,blossom,(果樹の)花、(花が)開く
+15,bloom,(観賞用の)花
+16,leaf,葉、a leaf of paperで「一枚の紙」
+17,fluit,果物、成果
+18,pick,(花や実を)摘む
+19,grow,成長する
+20,marry,結婚する
+21,mention,と述べる、言及する
+22,obey,従う、服従する
+23,reach,に達する、手が届く
+24,resemble,に似ている
+25,survive,を生き延びる、生き残る
+26,continent,大陸
+27,area,地域
+28,part,部分、地域
+29,horizon,地平線、水平線
+30,border,国境
+31,foreign,外国の、異質の
+32,apologize,謝罪する、詫びる
+33,argue,言い争う
+34,complain,不平を言う
+35,graduate,卒業する
+36,agree,同意する、賛成する
+37,creature,いきもの、動物
+38,tail,尾、しっぽ
+39,alive,生きている
+40,bite,噛む、噛みつく
+41,dig,掘る、掘り出す
+42,feel,感じがする
+43,smell,のにおいがする、におい
+44,taste,の味がする、嗜好
+45,seem,のように思われる、のように見える
+46,look,のように見える、見ること
+47,appear,のように見える、現れる
+48,sound,のように聞こえる、思われる
+49,population,人口
+50,generation,世代、同世代の方々
+51,hero,英雄、主人公
+52,right,権利
+53,village,村
+54,common,共通の、共同の
+55,public,公共の、一般の人々
+56,give,与える、渡す
+57,lend,を貸す、貸付すること
+58,show,を見せる
+59,pass,手渡す、取る
+60,society,社会、交際、協会
+61,culture,文化、教養
+62,custom,社会の慣習、習慣
+63,tradition,伝統、慣習
+64,rule,規則、原則
+65,role,役割
+66,address,住所、演説する
+67,ceremony,儀式
+68,cash,現金
+69,buy,買う
+70,cook,を料理する、(を)作る
+71,choose,選ぶ
+72,get,得る、買う
+73,proud,誇りに思って
+74,grateful,感謝して
+75,afraid,恐れて
+76,anxious,心配する、欲しくてたまらない
+77,ashamed,恥じて
+78,angry,怒って
+79,miserable,みじめな、不幸な
+80,ask,尋ねる、頼む
+81,cost,(費用が)かかる
+82,save,を省く、救う、蓄える
+83,envy,うらやむ、ねたむ
+84,spare,さく、なしですます
+85,age,年齢
+86,kid,子供
+87,cousin,いとこ
+88,host,主人、主催者
+89,female,女性
+90,male,男性
+91,human,人間、人類
+92,owe,借りている
+93,allow,許す、取っておく
+94,cause,もたらす
+95,charge,請求する
+96,loan,貸し付ける、貸す
+97,FALSE,誤った、偽りの
+98,bitter,つらい、苦い
+99,empty,からの、空虚な
+100,short,不足した、短い
+101,absent,不在で、欠席で
+102,waste,無駄に使う、浪費する
+103,trouble,を悩ませる、迷惑をかける
+104,leave,をのままにしておく、出発する
+105,find,がだとわかる、見つける
+106,elect,をに選出する
+107,believe,がだと思う、信じる
+108,tourist,観光客
+109,travel,旅行、旅行する
+110,voyage,航海、航旅
+111,rest,休息
+112,leisure,余暇、ひま
+113,airport,空港
+114,abroad,外国へ、海外に
+115,sightseeing,観光、見物
+116,rise,上がる、昇る。立ち上がる
+117,raise,上げる、育てる
+118,lie,横たわる、うそを言う
+119,lay,横たえる、置く
+120,conversation,会話
+121,speech,演説、話すこと
+122,attention,注意、注目
+123,contact,接触、連絡
+124,remain,のままである、残っている
+125,own,所有している、自分自身の
+126,belong to,に所属している、のものである
+127,contain,含む、抑える
+128,exist,存在する
+129,hate,憎む、ひどく嫌う
+130,understand,理解する、わかる
+131,subject,話題、題目、左右される
+132,matter,問題、事柄、物質
+133,opinion,意見、考え
+134,fact,事実、現実
+135,example,例、手本
+136,reason,理由、理性、道理
+137,knowleadge,知識
+138,make,にさせる(強制)、作る
+139,let,にさせる(許可)、しよう
+140,have,にさせる(依頼)、食べる、飲む
+141,stranger,見知らぬ人、不案内な人
+142,safe,金庫、安全な
+143,copy,部、冊、コピー
+144,line,職業、商売、線
+145,word,約束、言葉
+146,ring,鳴ること、鳴らすこと
+147,hear,聞こえる
+148,listen,(注意して)聴く
+149,see,見える、会う、わかる
+150,watch,よく見る、注意する
+151,situation,状況、立場
+152,position,位置、地位
+153,front,前部、正面
+154,bottom,下部、低部
+155,neighborhood,近所、付近
+156,point,点、地点、要点
+157,want,にしてほしいと思っている
+158,enable,にすることを可能とする
+159,persuade,を説得してさせる、納得させる
+160,encourage,にするように励ます、勇気づける
+161,expect,がするだろうと思う、を予期する
+162,invite,にするように依頼する
+163,clothes,服、衣服
+164,comb,くし、髪をとかす
+165,case,箱、場合
+166,gift,贈り物
+167,seat,座席
+168,cover,カバー、本の表紙
+169,force,にすることを強制する、暴力
+170,compel,にすることを強いる
+171,oblige,にすることを義務付ける
+172,require,にすることを要求する
+173,permit,がすることを許す
+174,factory,工場、製作所
+175,museum,博物館、美術館
+176,store,店、蓄え
+177,office,事務所、会社
+178,story,階、話
+179,frame,骨組み、枠、組み立てる
+180,afford,する余裕がある、できる
+181,attempt,することを試みる、を企てる
+182,fail,しそこなう、失敗する
+183,hope,したいと思う、望む
+184,intend,するつもりである、意図する
+185,manage,どうにかしてする、経営する
+186,nature,自然、性格、性質
+187,source,水源、出所、原因
+188,desert,砂漠、デザート
+189,space,宇宙、空間
+190,even,平らな、等しい
+191,pretend,するふりをする、偽る
+192,refuse,することを拒む、断る
+193,promise,することを約束する、する見込みがある
+194,offer,することを申し出る
+195,desire,することを強く望む
+196,plan,計画する
+197,chance,機会、見込み
+198,courage,勇気
+199,familiar,よく知られた、親しい
+200,sure,確信して、確実な
+201,TRUE,本当の、本物の
+202,enjoy,して楽しむ
+203,avoid,するのを避ける
+204,finish,し終える
+205,mind,いやだと思う、気にする
+206,stop,するのをやめる、止まる
+207,close,近くの、閉まる
+208,far,遠くの、はるかに
+209,distant,遠い、離れた、決して
+210,upstairs,階上に、2階で
+211,forgive,許す
+212,practice,する練習をする、実行する
+213,consider,するのをよく考える、考慮する
+214,escape,するのをまぬがれる、逃げる
+215,admit,したのを認める
+216,deny,したのを否定する
+217,miss,しそこなう、乗り遅れる
+218,important,重要な、大切な
+219,precious,貴重な、高価な
+220,main,おもな、主要な
+221,perfect,完全な、完璧な
+222,need,を必要とする
+223,remember,忘れずに、する、覚える
+224,forget,を忘れる
+225,try,試みる、ためしにしてみる、努力する
+226,mean,意味する、つもりだ、することになる
+227,certain,確実な、確信して
+228,likely,ありそうな、しそうである
+229,almost,ほとんど、もう少しで
+230,become,に似合う、なる
+231,count,重要である、価値がある、数える
+232,face,直面する、面する、顔
+233,follow,ということになる(it follow that)、ついていく
+234,last,続く、持ちこたえる、最後の
+235,run,経営する、動かす、走る
+236,stand,我慢する、立つ
+237,wear,すり減らす、みに着ける
+238,pay,得になる、報いる、払う
+239,read,解釈される、読む
+240,sell,売れる、売る
+241,change,釣銭、小銭、変える
+242,mine,鉱山、地雷、私のもの
+243,fire,解雇する、興奮する、発砲する、火
+244,book,予約する、本
+245,can,缶、できる
+246,break,休憩、壊す
+247,hand,手渡す、手
+248,place,地位、身の程、場所
+249,flat,パンクした、平らな
+250,lot,運命、たくさんのこと
+251,will,遺言、意欲、するつもりだ
+252,well,うまく、井戸、健康で
+253,end,目的、終わり、端っこ
+254,elaborate,複雑な、精巧な、入念な
+255,table,表、目録、卓
+256,spell,期間、呪文、つづり
+257,touch,少量、触れること
+258,game,獲物、ゲーム、競技
+259,room,場所、余地、部屋
+260,match,調和する、匹敵する、試合
+261,fall,秋、滝、落ちる
+262,park,駐車する、公園
+263,be made from,(原料)から作られている(原材料がわからんとき)
+264,be made of,(材料)でできている(原材料がわかるとき)
+265,be made up of,で構成されている
+266,make ... into,を...に加工する
+267,make up one's mind to do,しようと決心する
+268,make a point of ーing,ーすることにしている
+269,make progress in,において進歩を遂げる
+270,come across,に出くわす、に偶然会う
+271,come true,実現する
+272,come to,意識を取り戻す
+273,come to do,するようになる
+274,come off,行われる、落ちる、取る
+275,come to think of it,考えてみると、そういえば
+276,come by ,を立ち入れる、立ち寄る
+277,go on ーing,ーし続ける
+278,go on to do,さらに続けてする
+279,go on with,を続ける
+280,go ing at <場所>,<場所>にしに行く
+281,go through,を経験する、通り抜ける
+282,go bad,腐る
+283,go wild,荒っぽくなる、興奮する
+284,go from bad to worse,さらに悪い方向へ進む、ますますつらくなる
+285,go ahead with ,を始める、を進める
+286,go over,をよく調べる、について考える
+287,go with,に似合う、と調和する、と交際する
+288,go out of one's way to do,わざわざする、無理してする
+289,be on the go,仕事に追われている、常に活動している
+290,leave ... behind,...を置き忘れる、...を連れて行かない
+291,leave much to be desired,問題が多い、不満な点がいくつかある
+292,leave ... alone,...を一人にしておく
+293,leave  out,を省く　を入れ忘れる
+294,give <人> a hand,<人>に手を貸す
+295,give <人> a call,電話をする
+296,give birth to ,産む
+297,give up ,あきらめる、断念する
+298,give in ,譲る、屈服する、提出する
+299,give way to,に譲歩すれば、に屈する
+300,given,を考慮に入れれば
+301,give out,を配る
+302,give away,(秘密)を明かす
+303,give rise to,を引き起こす、の原因となる
+304,give off,(においや熱を)発する、出す
+305,set out,を出発する、に着手する
+306,set in,が始まる、が定着する、が流行する
+307,set  about,にとりかかる、に着手する
+308,take care of,世話をする、気配る
+309,take over,引き継ぐ、交代する
+310,take part in,に参加する
+311,it takes <人> <時間> to do,が始まる、が定着する、が流行する
+312,take ... for granted,...を当たり前に思う、...を当然のことと思う
+313,take it easy,気楽にする
+314,take ... for~,...を~だと思い込む、だと思う
+315,keep good hours,早寝早起きする
+316,keep a diary,日記をつける
+317,keep good time,時間が正確である
+318,keep on ...ing,...し続ける
+319,keep ...ing,...をそのままにしておく
+320,keep <人> company,<人>に同行する
+321,have a good time ...ing,...を楽しむ
+322,have no idea,わからない、全然知らない
+323,have an eye for,見る目がある
+324,have only to do,さえすればよい
+325,have ... done,...してもらう、...される
+326,have words with,口論する
+327,have an effect on,影響を与える、効果がある
+328,have one's own way,自分の思い通りにする
+329,have a good command of,自由に操る
+330,have no choice but to do,せざるをえない、選択の余地がない
+331,turn up,現れる、出てくる
+332,turn out to be,だとわかる
+333,turn down,断る
+334,by turns,代わる代わるに、次に
+335,in turn,順番に、入れ替わりに
+336,get to do,...するようになる
+337,get ... to do,...にさせる
+338,get ... to done,...をしてしまう
+339,get in touch with,連絡を取る
+340,get along with,仲良くやっていく
+341,get nowhere,進展しない、目的を達成しない
+342,get on one's nerves,いらつかせる、神経に触る
+343,get in one's way,じゃまをする
+344,call up,電話をする
+345,call for,強く求める
+346,call on <人>,<人>を訪問する
+347,call it a day,仕事を切り上げる
+348,call back,折り返し電話をする
+349,call off,中止する、取り消す
+350,call in,電話を入れる
+351,accident,事故、偶然
+352,pain,痛み、苦労
+353,ill,病気で、悪い
+354,die,死ぬ、枯れる
+355,remind,思い出される、気づかせる
+356,inform,知らせる
+357,convince,納得させる、確信させる
+358,warn,警告する
+359,suspect,疑う、感づく
+360,company,会社、仲間、同席すること
+361,project,計画、企画、事業
+362,career,仕事、職業、経歴
+363,clerk,店員、事務員
+364,document,文書、書類
+365,envelope,封筒
+366,rob,奪う、強奪する
+367,deprive,(権利などを)奪う、?奪する
+368,cure,治す、治療する
+369,cheat,だます、だまし取る
+370,clear,片づける、取り除く
+371,relieve,和らげる、安心される
+372,rid,取り除く
+373,act,行動する、演じる、行為
+374,bear,耐える、負う、支える、産む
+375,burn,燃える、焦げる
+376,continue,続く、続ける
+377,gather,集まる、集める
+378,include,含む、含める
+379,spend,費やす、過ごす
+380,wake,起こす、目が覚める
+381,prevent,妨げる、防ぐ
+382,keep,妨げる、持っている、～の状態にする
+383,prohibit,禁止する
+384,discourage,やる気をなくさせる、落胆させる
+385,personality,個性、性格、人格
+386,shy,恥ずかしがり、内気な
+387,brave,勇敢な、勇気のある
+388,smart,賢い、しゃれた
+389,lazy,怠惰な、怠け者の
+390,independent,独立した
+391,serve,仕える、(食事を)する、役立つ
+392,provide,供給する、(情報を)提供する
+393,supply,(ものを)供給する
+394,present,贈る、示す、見せる
+395,shape,形、姿、状態
+396,surface,表面、外面
+397,spot,場所、はん点
+398,thick,厚い、太い、濃い
+399,tight,きつい
+400,rough,でこぼこした
+401,dull,鈍い
+402,blame,非難する、責任にする
+403,praise,称賛する、褒める
+404,criticize,批判する
+405,punish,罰する
+406,thank,感謝する
+407,alone,ひとりで
+408,liable,(be liable toで)しやすい、責任がある
+409,home,わが家へ、十分に、家庭
+410,much,とても、非常に
+411,respectively,それぞれに、めいめいに
+412,ever,かつて、これまでに、いまだかつて
+413,badly,ひどく、悪く
+414,first,最初に、はじめて
+415,take,取る、連れていく、必要とする、みなす
+416,bring,持っている、導く、ついた
+417,traffic,交通、交通量
+418,transportation,輸送機関、輸送
+419,path,小道、細道
+420,fuel,燃料
+421,move,引っ越す、動く
+422,cross,横切る、交差させる
+423,return,戻る、戻す
+424,turn,回る、向く
+425,spread,広がる、広げる
+426,hurry,急ぐ、急がせる
+427,ride,乗る
+428,impression,印象、感銘、思い込み
+429,image,イメージ、像、映像
+430,personal,個人的な、私的な
+431,private,私用の、専用の
+432,individual,個々の、子損の
+433,celebrate,祝う、ほめたたえる
+434,nod,うなずく
+435,pardon,許す
+436,please,喜ばせる、満足させる
+437,worry,心配する
+438,wish,望む、祈る
+439,depend,(depend onで)頼る、次第である
+440,rely,(rely onで)頼る、あてにする
+441,minute,分、細か、少しの間
+442,moment,瞬間、すぐに、少しの間
+443,rapid,速い、急激な
+444,brief,短時間の、短い、簡潔な
+445,due,到着する予定で、のため
+446,current,今の、流行の、流れ
+447,instantly,すぐに、即座に
+448,repeat,繰り返す
+449,whisper,ささやく、ひそひそと話す
+450,pronounce,発音する
+451,excuse,大目に見る、許す
+452,literature,文学、文献
+453,novel,小説
+454,sentence,文、判決
+455,content,中身、内容
+456,author,著者、作者
+457,judge,判断する
+458,solve,解決する、解く
+459,prove,わかった、証明する
+460,notice,気づく、注意する
+461,realize,気づく、実現する
+462,check,調べる、点検する、阻止する
+463,explain,説明する
+464,imagine,想像する
+465,adjust,慣れる、調整する
+466,expert,専門家、熟練者
+467,professor,教授
+468,instruction,指導、指示
+469,survey,調査、ざっと見渡す
+470,grade,成績、学年
+471,major,専攻する
+472,appeal,求める、訴える
+473,communicate,伝える、意思を伝えあう
+474,introduce,紹介する、導入する
+475,react,反応する
+476,respond,対応する、応答する
+477,support,支える、支持する
+478,treat,扱う、治療する
+479,size,大きさ、(be the size of)で同じ大きさである
+480,fat,太った
+481,bare,裸の、むきだしの、(in one's bare feet)で素足で
+482,advise,忠告する、助言する
+483,decide,決める
+484,demand,要求する
+485,insist,主張する、強く要求する
+486,order,命令する、注文する
+487,propose,(根拠があるから)提案する、結婚を申す
+488,request,要請する
+489,suggest,(控えめに)提案する
+490,origin,起源、生まれ
+491,civilization,文明
+492,race,人種、民族
+493,progress,進歩、上達する
+494,event,できごと、事件
+495,adventure,冒険、予期せぬ出来事
+496,treasure,宝物、貴重品
+497,crop,農作物
+498,harvest,収穫、成果
+499,sew,縫い付ける、縫う
+500,receive,受ける、受け取る
+501,bend,曲げる、曲がる
+502,collect,集める
+503,fix,修理する、固定する
+504,grab,つかむ、つかみ取る
