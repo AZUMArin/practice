@@ -800,3 +800,202 @@ id,word,mean
 799,industrious,勤勉な、よく働く
 800,sensitive,敏感な
 801,sensible,分別のある、賢明な
+802,display,を陳列する、を示す
+803,arrange,を手配する、を取り決める
+804,imitate,をまねる、を模倣する
+805,indicate,を示す、を暗示する
+806,behave,ふるまう
+807,attract,を引き付ける、を魅惑する
+808,successuful,成功した、うまくいっている
+809,successive,連続の
+810,literate,（人が）読み書きができる
+811,literal,文字通りの、逐語的な、実際の
+812,literary,文学の、文芸の
+813,childush,子供っぽい
+814,childlink,子供らしい、無邪気な
+815,healthful,健康によい
+816,healthy,健康な、健全な
+817,invaluable,非常に価値がある
+818,valueless,価値のない
+819,manly,（男性・ふるまいなどが）男らしい
+820,mannish,（女性・服装なのが）男っぽい
+821,social,社会の、社交の
+822,sociable,社交的な
+823,alike,似ている
+824,similar,同類の、よく似た
+825,equal,等しい、平等な
+826,variety,種類
+827,state,を（はっきりと）述べる
+828,refer,言及する、述べる
+829,claim,を主張する
+830,approve,（に）賛成する
+831,recommend,を勧める、を推薦する
+832,reply,返事をする、答える
+833,correct,を訂正する
+834,accepy,を受け入れる
+835,debate,を討論する
+836,despite,～にもかかわらず
+837,beyond,～をこえて
+838,beneath,～の下に
+839,besides,～のほかに、～に加えて
+840,throughout,～のいたるところに
+841,therefore,したがって、それゆえに
+842,anyway,とにかく、いずれにせよ
+843,once,一度、かつて
+844,high,（高さ・位置が）高い
+845,low,（高さ・位置が）低い
+846,expensive,（品物が）高価な
+847,cheap,（品物が）安い
+848,large,（数・量が）多い
+849,small,（数・量が）少ない
+850,estimate,（を）見積もる
+851,measure,（を）測定する
+852,divide,を分ける、を分類する
+853,add,（を）足す
+854,amount,（合計して） ... に達する
+855,able,できる、有能な
+856,capable,能力がある、有能な
+857,possible,可能な、可能性がある
+858,attitude,態度、心がまえ
+859,manner,方法、やり方
+860,habit,（個人の）習慣、くせ
+861,appointment,（面会の）約束、（医者などの）予約
+862,concern,関心、心配
+863,affair,情勢、問題、事情
+864,consensus,意見の一致、合意
+865,announce,を公表する、を知らせる
+866,greet,に挨拶をする、を迎える
+867,scold,（を）しかる、（に）小言を言う
+868,scream,悲鳴を上げる、叫ぶ
+869,quarrel,口論する、言い争う
+870,breathe,呼吸する、息をする
+871,sign,ため息をつく
+872,normal,標準的な、正常な
+873,ordinary,普通の、平凡な
+874,average,平均的な、ふつうの
+875,regular,規則的な、定期的な
+876,rare,まれな、珍しい
+877,particular,特定な、特別の
+878,relative,相対的な
+879,publish,（を）出版する
+880,print,（を）印刷する
+881,broadcast,を放送する、を放映する
+882,create,を創作する
+883,design,を設計する、をデザインする
+884,media,（マス）メディア、マスコミ
+885,murder,（ひと）を殺す
+886,arrest,を逮捕する
+887,seize,を押収する、を奪い取る
+888,surround,を囲む、を包囲する
+889,oppress,（権力などで）を虐げる
+890,dangerous,危険な
+891,useless,無駄な
+892,impossible,不可能な、ありえない
+893,convenient,便利な、都合の良い
+894,necessary,必要な
+895,topic,話題、議題
+896,direction,指揮、管理
+897,result,結果、成績
+898,conclusion,結論、結末
+899,opportunity,機会、好機、チャンス
+900,principal,おもな、主要な
+901,opposite,（性質・立場が）正反対の、逆の
+902,poll,世論調査、投票
+903,respect,を尊敬する、を重視する
+904,admire,に感心する、を称賛する
+905,appreciate,のよさがわかる、を認識する
+906,board,委員会、会議
+907,committee,委員会、（全）委員
+908,statement,声明、陳述
+909,strategy,戦略、計画
+910,gain,を得る
+911,obtain,を手に入れる、を得る
+912,score,（得点・点数）をとる
+913,lack,を欠く、がない
+914,decreace,減る、を減らす
+915,replace,に取って代わる
+916,remove,を取り去る、を取りかえる
+917,adopt,を採用する、を養子にする
+918,stare,（を）じっと見る
+919,discover,を発見する
+920,seek,（を）捜す
+921,search,（場所）を捜す
+922,recognize,がだれ[何]だかわかる、を認識する
+923,advice,忠告、アドバイス
+924,baggage,（旅行の）手荷物
+925,furniture,家具
+926,information,情報
+927,machinery,機械装置
+928,news,報道、ニュース
+929,flock,（鳥や羊の）群れ
+930,herd,（牛や馬の）群れ
+931,school,（魚の）群れ
+932,shade,（日）影
+933,shadow,影
+934,dentist,歯科医
+935,surgeon,外科医
+936,physician,医者、内科医
+937,homework,宿題
+938,housework,家事
+939,poetry,（集合的に）詩
+940,scenery,風景
+941,fun,楽しみ、おもしろいもの
+942,economy,経済（活動）、節約
+943,price,価格、物価
+944,trade,貿易、取引
+945,industry,産業、工業
+946,loss,損失、損害
+947,consumer,消費者
+948,duty,関税、税金
+949,balance,（預金などの）残高、（貿易などの）収支
+950,guarantee,を保証する、を約束する
+951,join,（人や団体）に加わる
+952,participate,（活動）に参加する
+953,organize,（行事・活動）を準備する
+954,unite,団結[協力]する
+955,make oneself understood,自分の意志を伝える
+956,make a [one's] living,生計を立てる
+957,make way for ... , ... に道を譲る
+958,make one's way,（やっとのことで）進む、行き着く
+959,make for ... , ... のほうへ向かう
+960,make oneself at home,気楽にする
+961,make friends with ... , ... と友達になる
+962,tell ... from ~,... を～と見分ける
+963,tell ... off,... をしかる
+964,feel free to do,自由に～する
+965,feel ill at ease,落ち着かない感じがする
+966,show up,現れる
+967,hand in ... , ... を提出する
+968,learn to do,～ができるようになる
+969,think over ... , ... をじっくり考える
+970,every time ... , ... するときはいつも
+971,one after another,次々と
+972,on end,連続して
+973,more often than not,たいてい、ふつうは
+974,on and off,断続的に、ときどき
+975,once in a while,ときどき
+976,once (and) for all,きっぱりと
+977,in the long run,長い目で見れば
+978,as soon as ... , ... するとすぐに
+979,the moment ... , ... するとすぐに
+980,no sooner ... than~,... すると同時に～
+981,hardly ... when~,... すると同時に～
+982,directly ... , ... するとすぐに
+983,both A and B,AもBも
+984,not A but B,AでなくB
+985,not only A but (also) B,AだけでなくBもまた
+986,either A or B,AかBのどちらか
+987,neither A or B,AもBも～ない
+988,so that ... , ... するために、 ... するための
+989,in order that ... , ... するために、 ... するように
+990,for fear (that) ... , ... しないように、 ... をすることを恐れて
+991,in case ... , ... するといけないから
+992,have noting to do with ... , ... とは関係ない
+993,for nothing,無駄に、無料で
+994,nothing but ... , ... しかない
+995,something is wrong with ... , ... の調子[具合]が悪い
+996,think nothing of ... , ... を何とも思わない
+997,too ... (for - ) to do,（ ... が）～するには ... がすぎる
+998,... enough to do ,～するのに十分 ... 
+999,so  ... as to do,～するほどに ... 
+1000,in order to do,～するために
