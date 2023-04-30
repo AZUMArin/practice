@@ -696,7 +696,7 @@ id,word,mean
 695,hurt,を傷つける
 696,injure,にけがをさせる
 697,crash,（車が）衝突する
-698,destory,を破壊する
+698,destroy,を破壊する
 699,ruin,を台無しにする
 700,explode,爆発する
 701,shoot ,（を）撃つ
@@ -721,13 +721,13 @@ id,word,mean
 720,cough,せき
 721,aid,手当
 722,pale,青ざめた
-723,confortable,快適な
+723,comfortable,快適な
 724,asleep,眠って
-725,hardry,ほとんど～ない
-726,scarcely,ほとんど～ない
-727,rarely,めったに～ない
-728,seldom,めったに～ない
-729,government,政府
+725,hardry,ほとんど～ない(話すときに使用する言葉)
+726,scarcely,ほとんど～ない(書くときに使用する言葉)
+727,rarely,めったに～ない(話すときに使用する言葉)
+728,seldom,めったに～ない(書くときに使用する言葉)
+729,goverment,政府
 730,politics,政治（学）
 731,policy,政策
 732,democracy,民主主義
@@ -736,7 +736,7 @@ id,word,mean
 735,citizen,市民、国民
 736,official,公式の、公の
 737,suspect,<suspect that ... で>（好ましくない内容を肯定的に） ... だろうと思う
-738,doutar,"<doubt that [if,whether] ... で>（好ましくない内容を否定的に） ... ではないと思う"
+738,doubt,"<doubt that [if,whether] ... で>（好ましくない内容を否定的に） ... ではないと思う"
 739,write,（文字など）を書く
 740,draw,（線で絵や図形など）を描く
 741,challenge,に異議を唱える
@@ -763,7 +763,7 @@ id,word,mean
 762,row,ボートをこぐ、をこぐ
 763,roll,転がる、を転がす
 764,float,浮かぶ、を浮かべる
-765,aliminate,を削除する、を取り除く
+765,eliminate,を削除する、を取り除く
 766,confidence,信頼、自信
 767,effort,努力
 768,favor,好意、親切な行為
