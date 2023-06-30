@@ -99,28 +99,53 @@ id,word,mean
 98,lamppost,街灯柱
 99,wheelbarrow,(手押しの)一輪車
 100,canopy,天蓋(4本の柱の上に布製の屋根がついたテント状のもの)
-101,accommodate,(要望やニーズに)応える、収容する
-102,account,口座、得意先、占める
-103,address,対処する、話しかける、向ける、演説、あて名を書く
-104,appearance,出現、外見、出演
-105,apply,応募する、塗る、適用する
-106,appointment,予約、約束、指名、任命
-107,article,記事、用品
-108,battery,一連、一式
-109,board,取締役会、掲示板
-110,book,予約する
-111,carry,扱う、持ち運ぶ、(carry outで実行する)
-112,certain,ある決まった、特定の
-113,complete,完了した、全部そろった、完了する、記入する
-114,consideration,検討、考慮、配慮、思いやり
-115,copy,冊、部、枚
-116,cover,報道する、覆う、含む
-117,critical,批判的な、非常に重要な
-118,decline,断る、降下する
-119,definition,定義、解像度
-120,deliver,配達する、届ける、(講義を)行う
-121,demonstrate,実演する、明示する
-122,development,開発、出来事、住宅地、成長
-123,direction,道順、指示、方向
-124,drawing,抽選、スケッチ
-125,due,期限、当然与えられるべき、会費、することになっている
+101,a course of action,一連の行動
+102,a number of,いくつかの
+103,a wealth of,豊富な
+104,above all,とりわけ
+105,after all,結局
+106,ahead of schedule,予定より早く
+107,along with,と一緒に
+108,among other things,とりわけ
+109,as a whole,全体として
+110,as early as,早ければ
+111,as far as,する範囲では
+112,as of,以降
+113,aside from,は別として
+114,at all times,常時
+115,at least,少なくとも
+116,at the leatest,遅くとも
+117,at your earliest convenience,あなたの都合がつき次第
+118,be credited with,の功績があるとされる
+119,be supposed to do,することになっている
+120,behind schedule,予定より遅れて
+121,box office,チケット売り場
+122,bulk order,大量注文
+123,by a wide margin,大差で
+124,by any chance,ひょっとして
+125,by means of,という手段で
+126,Can you do me a favor?,お願いがあるのですが
+127,come up with,を思いつく
+128,cordially invite,謹んで招待する
+129,deal with,扱う
+130,depend on,頼る
+131,drop off,預ける
+132,Either is fine.,どちらでも構いません
+133,field trip,郊外学習
+134,figure out,理解する
+135,fill out,記入する
+136,for further information,詳しくは
+137,for instance,たとえば
+138,get in touch with,連絡を取る
+139,has yet to do~,まだ~していない
+140,in a rush,大急ぎで
+141,in a timely manner,タイミングよく
+142,in accordance with,に従って
+143,in an effort to do,しようとして
+144,in charge of,担当している
+145,in fact,実際
+146,in for a treat,もうすぐ楽しいことがある
+147,in keeping with,合わせて
+148,in person,直接
+149,in short,要するに
+150,in progress,進行中
